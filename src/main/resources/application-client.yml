@@ -1,0 +1,11 @@
+# Tomcat
+server:
+  port: 8081
+spring:
+  application:
+    name: pir-client
+#configure
+pir:
+  ssl: false
+
+
